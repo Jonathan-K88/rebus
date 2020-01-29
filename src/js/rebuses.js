@@ -887,6 +887,66 @@ const rebuses = [
     symbols: ['🍯', '+', '🐝'],
     words: ['honeybee'],
     hint: ['An insect that makes a sweet treat.']
+  },
+{
+    symbols: ['🌱', '-', 'n', '+', 'y', '+', 'b', '=', 'p', '🚌'],
+    words: ['Platypus'],
+    hint: 'They have webbed feet, a duck bill and are one of the only mammals that lay eggs.'
+  },
+{
+    symbols: ['💧', '+', '🍁'],
+    words: ['Waterfall'],
+    hint: 'This is a cascade of water falling from a height.'
+  },
+{
+    symbols: ['⛵️', '+', '💍', '-', 'r'],
+    words: ['Shipping'],
+    hint: 'The desire by fans for two or more people to be in a relationship.'
+  },
+{
+    symbols: ['✋', '+', '2', '+', '✋', '+', '🤼'],
+    words: ['Hand', 'to', 'hand', 'combat'],
+    hint: 'An unarmed type of fighting.'
+  },
+{
+    symbols: ['🍯', '+', '👻', '+', '👻'],
+    words: ['Honey', 'boo', 'boo'],
+    hint: 'American Reality TV series with Alana Thompson.'
+  },
+{
+    symbols: ['⭐', '+', '⛵️⛵️⛵️'],
+    words: ['Starships'],
+    hint: 'Nicki Minaj.'
+  },
+{
+    symbols: ['⚔️', '+', '🎨', '+', '💻'], 
+    words: ['Sword', 'Art', 'Online'],
+    hint: 'Kirito and Asuna are the main characters in a virtual reality death game.'
+  },
+{
+    symbols: ['☕️', '+', '🎬📃'],
+    words: ['JavaScript'],
+    hint: 'The type of file we are currently editing: JS.'
+  },
+{
+    symbols: ['📗', '+', '🐛'],
+    words: ['Bookworm'],
+    hint: 'Someone who enjoys reading.'
+  },
+{
+    symbols: ['🌱🌱', '+', '⚔️', '+', 'zom', '+', '🐝🐝'],
+    words: ['Plants', 'vs', 'Zombies'],
+    hint: 'Originally owned by PopCap Games before EA Games acquired the company.'
+  },
+{
+    symbols: ['🌙', '+', '🥀'],
+    words: ['Crescent', 'Rose'],
+    hint: 'Ruby Rose owns this scythe/sniper rifle.'
+  },
+{
+    symbols: ['⬇', '+', '2', '🌎'],
+    words: ['Down', 'to', 'Earth'],
+    hint: 'To be open and honest rather than prideful and self-centered.'
   }
 ];
 
